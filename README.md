@@ -6,6 +6,7 @@ Blackout Tweaks is a minimalist, neon-themed system optimizer tailor-made for ga
 - 🎮 Custom Config Patcher — Automatically rewrites game configs for Warframe (EE.cfg) and ESO (UserSettings.txt) to maximize FPS.
 - 📜 Live Log Console — Color-coded output lets you see exactly what succeeded or failed.
 - 💬 Discord Integration .
+- 🎮 more games coming soon .
 # 📂 Built With
 - Python 3.x
 - tkinter, winreg, subprocess, ctypes, psutil
